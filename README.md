@@ -7,4 +7,7 @@ Sorybook learning
 
     npx -p @storybook/cli sb init
 
+for snapchot testing:
+    yarn add -D @storybook/addon-storyshots react-test-renderer
+
     yarn storybook
