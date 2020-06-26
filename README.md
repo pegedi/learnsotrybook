@@ -11,3 +11,5 @@ for snapchot testing:
     yarn add -D @storybook/addon-storyshots react-test-renderer
 
     yarn storybook
+
+    yarn test
